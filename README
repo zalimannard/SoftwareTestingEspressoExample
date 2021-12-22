@@ -1,0 +1,3 @@
+Тестируемое приложение: https://github.com/Docile-Alligator/Infinity-For-Reddit
+Папку androidTest положить в app/src
+Файл build.gradle положить в app
